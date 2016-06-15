@@ -18,8 +18,8 @@ permalink: /:title/
 analytics: 'UA-65551407-1'
 
 # Color schemes
-color-1: '#3B97D3'
-color-2: '#26B99A'
+color-1: '#8e44ad'
+color-2: '#1abc9c'
 
 
 # Build settings
