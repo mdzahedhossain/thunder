@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Welcome to my website where I occassionaly write about techs and things I am interested and curious about. 
 url: "https://mdzahedhossain.com" # the base hostname & protocol for your site
 
-baseurl: 'https://mdzahedhossain.com'
+baseurl: 'https://mdzahedhossain.com/'
 permalink: /:title/
 
 analytics: 'UA-65551407-1'
