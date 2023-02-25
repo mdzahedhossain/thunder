@@ -4,6 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
+** More Info on how to contact me coming soon.
+<!--
 I would love to hear from you. Any query, any suggestion or feedback would be great! If you need a website, blog or portfolio site then please leave a message.
 
 
@@ -30,3 +32,4 @@ I would love to hear from you. Any query, any suggestion or feedback would be gr
 </form>
 
 This form is setup using [SimpleForm](https://getsimpleform.com){: target="_blank" rel="nofollow"}. You can get your own API token or use other forms deleting this whole form. But remember, php forms will not work on Jekyll.
+-->
