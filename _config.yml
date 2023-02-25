@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Webjeda Thunder
-email: your-email@domain.com
+title: Zahed's Blog
+email: self@mdzahedhossain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Thunder is a lightning fast responsive theme based on default Jekyll theme. It is minimal and free from JavaScript. It has a css file of size 5kb. 
-url: "http://webjeda.com" # the base hostname & protocol for your site
+  Welcome to my website where I occassionaly write about techs and things I am interested and curious about. 
+url: "https://mdzahedhossain.com" # the base hostname & protocol for your site
 
-baseurl: '/thunder'
+baseurl: '/'
 permalink: /:title/
 
 analytics: 'UA-65551407-1'
