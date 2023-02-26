@@ -9,7 +9,7 @@
 title: Zahed's Blog
 email: self@mdzahedhossain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to my website where I occassionaly write about techs and things I am interested and curious about. 
+  Welcome to my website where I occassionally write about techs and things I am interested and curious about. 
 url: "https://mdzahedhossain.com" # the base hostname & protocol for your site
 
 #baseurl: '/'
